@@ -17,3 +17,5 @@ public class VariablesPractice {
   System.out.println(score);
   System.out.println(grade);
   System.out.println(isJavafun);
+  } 
+}
